@@ -1,0 +1,8 @@
+id,producto,categoria,cantidad,precio_unitario,total_venta
+1,Laptop,Electronica,2,800.0,1600.0
+2,Mouse,Electronica,10,15.0,150.0
+3,Silla Gamer,Muebles,1,250.0,250.0
+4,Teclado Mecanico,Electronica,4,60.0,240.0
+5,Monitor,Electronica,2,200.0,400.0
+6,Escritorio,Muebles,1,180.0,180.0
+7,Audifonos,Electronica,8,30.0,240.0
