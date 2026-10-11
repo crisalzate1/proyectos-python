@@ -6,3 +6,5 @@ Repositorio personal para almacenar avances, proyectos e hitos de aprendizaje en
 * **mision1.py**: Script interactivo con procesamiento de datos del usuario, validación de edad y manejo de excepciones (`try-except`).
 * **mision2.py**: Gestor de usuarios interactivo con almacenamiento persistente en formato JSON (`usuarios.json`), cálculo de promedios de edad y filtrado de registros.
 * **mision3.py**: Análisis de ventas procesando archivos CSV (`ventas.csv`), agregación de ingresos por categoría y exportación filtrada a `ventas_altas.csv`.
+* **mision4.py**: Análisis exploratorio de datos de ventas usando **Pandas**, creación de columnas calculadas, agregaciones (`groupby`) y exportación optimizada.
+* 
